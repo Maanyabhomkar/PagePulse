@@ -19,7 +19,7 @@ function App() {
       setResult(null);
 
       const response = await axios.post(
-        "https://pagepulse-infx.onrender.com/audit",
+        "https://pagepulse-ifnx.onrender.com/audit",
         {
           url,
         }
